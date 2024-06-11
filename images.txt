@@ -2,3 +2,6 @@ linkease/webvirtcloud:latest
 centos:7
 alpine:3.13
 alpine:latest
+openjdk:8
+openjdk:11
+openjdk:17
