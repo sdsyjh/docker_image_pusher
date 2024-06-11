@@ -1,1 +1,2 @@
 linkease/webvirtcloud:latest
+centos:7
