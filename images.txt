@@ -1,4 +1,5 @@
 linkease/webvirtcloud:latest
+p3terx/aria2-pro
 centos:7
 alpine:3.13
 alpine:latest
