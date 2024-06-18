@@ -1,3 +1,4 @@
+hello-world:latest
 linkease/webvirtcloud:latest
 p3terx/aria2-pro
 centos:7
