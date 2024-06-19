@@ -6,7 +6,6 @@ openjdk:8
 openjdk:11
 openjdk:17
 mysql:8.0.28
-redis:5
 redis:6
 redis:7
 registry.k8s.io/pause:3.7
