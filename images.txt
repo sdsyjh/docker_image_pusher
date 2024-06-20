@@ -1,3 +1,1 @@
-cdkbot/hostpath-provisioner:1.5.0
-busybox:1.28.4
-registry:2.8.1
+nginx:1.26.1
