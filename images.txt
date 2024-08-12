@@ -1,1 +1,1 @@
-percona/percona-distribution-postgresql:16.3-multi
+dpage/pgadmin4:latest
