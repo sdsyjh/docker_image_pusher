@@ -1,1 +1,1 @@
-dpage/pgadmin4:latest
+mysql/enterprise-server:9.0
