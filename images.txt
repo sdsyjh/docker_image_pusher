@@ -1,3 +1,1 @@
-tomcat:7.0.109-jdk8-openjdk
-tomcat:8.5.99-jdk8-openjdk
-tomcat:9.0.93-jdk8-openjdk
+alpine:3.4
