@@ -1,1 +1,1 @@
-chromadb/chroma:0.5.5
+ghcr.io/chroma-core/chroma:0.5.5
