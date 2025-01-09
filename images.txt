@@ -1,1 +1,1 @@
-redislabs/redis
+redis:7.4.2
