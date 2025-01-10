@@ -1,1 +1,1 @@
-redis:7.4.2
+amir20/dozzle:v8.10.1
