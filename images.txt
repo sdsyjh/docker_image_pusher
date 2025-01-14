@@ -1,1 +1,1 @@
-amir20/dozzle:v8.10.1
+redislabs/redisinsight:latest
