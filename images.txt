@@ -1,1 +1,1 @@
-mintplexlabs/anythingllm
+docker pull rocm/vllm:instinct_main
