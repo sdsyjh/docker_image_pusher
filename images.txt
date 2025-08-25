@@ -1,1 +1,3 @@
-docker pull rocm/vllm:instinct_main
+docker pull ghcr.io/ggml-org/llama.cpp:full-rocm
+docker pull ghcr.io/ggml-org/llama.cpp:light-rocm
+docker pull ghcr.io/ggml-org/llama.cpp:server-rocm
